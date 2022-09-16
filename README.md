@@ -1,5 +1,5 @@
 # Head_First_Java
-Reinforcing Java fundamentals by creating programs through Head First Java (3rd edition) 
+Reinforcing Java fundamentals by creating programs through Head First Java (3rd edition) using Notepad, debugging in Visual Studio Code when needed.
 
 Subjects include: 
 - Compiling and running code
