@@ -12,3 +12,6 @@ Subjects include:
   
 - Building simple game based on Battleship. Using subjects above to create multiple classes to build a game.
   - Files: SimpleStartup, SimpleStartupTestDrive, Startup, StartupBust, GameHelper 
+
+- Understanding Inheritance, Encapsulation, Polymorphism, Abstraction, and Interfaces through Animal hierarchy
+  - Files: Animal, and AnimalExercises
